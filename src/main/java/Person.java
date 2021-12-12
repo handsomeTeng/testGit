@@ -1,7 +1,7 @@
 public class Person {
     private Cat cat;
     private String userName;
-    private String number;
+    private  Integer age1;
 
     public Cat getCat() {
         return cat;
@@ -18,6 +18,7 @@ public class Person {
     public void setUserName(String userName) {
         this.userName = userName;
     }
+
     public static String  getCatName(Cat cat){
         return cat.getCatName();
     }
