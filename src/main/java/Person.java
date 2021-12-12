@@ -18,6 +18,7 @@ public class Person {
     public void setUserName(String userName) {
         this.userName = userName;
     }
+
     public static String  getCatName(Cat cat){
         return cat.getCatName();
     }
