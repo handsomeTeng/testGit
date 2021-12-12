@@ -1,7 +1,7 @@
 public class Person {
     private Cat cat;
     private String userName;
-    private  Integer age;
+    private  Integer age1;
 
     public Cat getCat() {
         return cat;
