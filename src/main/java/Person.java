@@ -1,6 +1,7 @@
 public class Person {
     private Cat cat;
     private String userName;
+    private String number;
 
     public Cat getCat() {
         return cat;
