@@ -2,6 +2,7 @@ public class Person {
     private Cat cat;
     private String userName;
     private  Integer age1;
+    private String numl;
 
     public Cat getCat() {
         return cat;
