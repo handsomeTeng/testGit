@@ -1,6 +1,7 @@
 public class Cat {
     private String catName;
     private Integer age;
+    private int abcd;
 
     public String getCatName() {
         return catName;
